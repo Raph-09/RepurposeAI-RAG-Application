@@ -5,4 +5,4 @@ protobuf
 python-dotenv
 Requests
 streamlit
-faiss-gpu==1.8.0
+faiss-gpu
