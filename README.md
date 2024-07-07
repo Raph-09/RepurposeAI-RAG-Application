@@ -1,4 +1,4 @@
-# Repurpose AI Documentation
+# Documentation
 
 ## Overview
 Repurpose AI is an application designed to convert blog content into posts for various social media platforms using AI. It utilizes Streamlit for the web interface, Google Generative AI for embeddings and text generation, and FAISS for managing the vector database.
